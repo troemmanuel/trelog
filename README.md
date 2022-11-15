@@ -1,2 +1,2 @@
 # trelog
-logging package for node.js developper
+Logging package for node.js developper
